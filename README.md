@@ -11,7 +11,7 @@ Beyond my professional role, I have a strong personal interest in deep learning 
 Feel free to contact me at 📮 either cheul1987@ts.hs.kr or cheul1987@gmail.com if you have any questions about the Maker course or would like to discuss shared passions and ideas.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dshs_log.JPG" width=350>
-  <source media="(prefers-color-scheme: light)" srcset="dshs_log.JPG" width=350>
-  <img alt ="dshs" src="dshs_log.JPG" width=350>
+  <source media="(prefers-color-scheme: dark)" srcset="dshs_logo.JPG" width=350 >
+  <source media="(prefers-color-scheme: light)" srcset="dshs_logo.JPG" width=350 >
+  <img alt ="dshs" src="dshs_logo.JPG" width=350 >
 </picture>
