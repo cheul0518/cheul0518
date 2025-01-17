@@ -1,6 +1,6 @@
 ## **_Hi there! Welcome to my GitHub.😄_** ##
 
-My name is 김승철, and my English name is Kay or Cheul. I am currently a Maker teacher at [Daegu Science High School](https://dshs.dge.hs.kr/dshsh/main.do), where I strive to inspire creativity and innovation in my students.
+My name is 김승철(Kay or Cheul). I am currently a Maker teacher at [Daegu Science High School](https://dshs.dge.hs.kr/dshsh/main.do), where I strive to inspire creativity and innovation in my students.
 
 I am currently focused on designing and implementing an innovative and engaging Maker course program that breaks away from traditional approaches and emphasizes hands-on creativity. Additionally, I am working on building and maintaining a robust system to enhance the overall effectiveness of the Maker course.
 
