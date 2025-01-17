@@ -8,4 +8,4 @@ To provide high-quality education to my students, I continuously study and utili
 
 Beyond my professional role, I have a strong personal interest in deep learning and actively explore related fields to expand my knowledge and skills.
 
-Feel free to contact me at cheul1987@ts.hs.kr if you have any questions about the Maker course or would like to discuss shared passions and ideas.
+Feel free to contact me at 📮 either cheul1987@ts.hs.kr or cheul1987@gmail.com if you have any questions about the Maker course or would like to discuss shared passions and ideas.
